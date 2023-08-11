@@ -55,11 +55,9 @@ For more information on the importance of a professional README for your reposit
 - [📝 License](#license)
 
 
-# 📖 [Air Pollutio Monitor] <a name="about-project"></a>
+# 📖 [Air Pollution Monitor] <a name="about-project"></a>
 
-> This React capstone project is about building a mobile web application to check a list of metrics (numeric values) that you will create making use of React and Redux. It uses <a href="https://openweathermap.org/api/air-pollution">Air pollution API</a> to check quality of data across the globe per country.
-
-**[Space ]** is a getting more lesons on React Redux applications
+> This React capstone project is about building a mobile web application to check a list of metrics (numeric values) tnhat you will create making use of React and Redux. It uses <a href="https://openweathermap.org/api/air-pollution">Air pollution API</a> to check quality of data across the globe per country.
 
 ## 🛠 Built With <a name="built-with"></a>
 
