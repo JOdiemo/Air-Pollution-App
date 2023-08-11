@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8982fd8f.css",
+    "main.js": "/static/js/main.e82963b5.js",
+    "static/media/world.png": "/static/media/world.34dfe65d583e7a63ceaa.png",
+    "static/media/Oceania.png": "/static/media/Oceania.dacd5e09b7e02a09fd87.png",
+    "index.html": "/index.html",
+    "main.8982fd8f.css.map": "/static/css/main.8982fd8f.css.map",
+    "main.e82963b5.js.map": "/static/js/main.e82963b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8982fd8f.css",
+    "static/js/main.e82963b5.js"
+  ]
+}
