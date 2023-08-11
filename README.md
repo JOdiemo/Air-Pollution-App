@@ -88,7 +88,7 @@ For more information on the importance of a professional README for your reposit
 
 - **Display Continents/Regions**
 - **Narrows down to countries per region**
-- **Moinitors the Air quality per country**
+- **Monitors the Air quality per country**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,8 +97,7 @@ For more information on the importance of a professional README for your reposit
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://air-pollution-updates.onrender.com)
-- [Video Link](https://drive.google.com/file/d/1e6WZlHxQW8OHUzrIldzRjiM2dzZgK_af/view?usp=sharing)
-
+- [Video Link](https://drive.google.com/file/d/1SJu-MI3gdzA78SsPmOHKjcbmgVEynm27/view?usp=sharing)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
