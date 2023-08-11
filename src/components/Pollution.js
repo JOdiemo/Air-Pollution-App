@@ -48,13 +48,13 @@ const Pollution = (props) => {
     </div>
   );
 };
-Pollution.propTypes = {
-  co: PropTypes.string.isRequired,
-  no: PropTypes.string.isRequired,
-  no2: PropTypes.string.isRequired,
-  flag: PropTypes.string.isRequired,
-  name: PropTypes.string.isRequired,
-  lat: PropTypes.string.isRequired,
-  lng: PropTypes.string.isRequired,
-};
+// Pollution.propTypes = {
+//   co: PropTypes.number.isRequired,
+//   no: PropTypes.number.isRequired,
+//   no2: PropTypes.number.isRequired,
+//   flag: PropTypes.string.isRequired,
+//   name: PropTypes.string.isRequired,
+//   lat: PropTypes.number.isRequired,
+//   // lng: PropTypes.number.isRequired,
+// };
 export default Pollution;

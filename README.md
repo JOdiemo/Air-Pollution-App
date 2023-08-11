@@ -32,8 +32,6 @@ For more information on the importance of a professional README for your reposit
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -56,7 +54,6 @@ For more information on the importance of a professional README for your reposit
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [Air Pollutio Monitor] <a name="about-project"></a>
 
@@ -67,8 +64,6 @@ For more information on the importance of a professional README for your reposit
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -93,8 +88,6 @@ For more information on the importance of a professional README for your reposit
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **Display Continents/Regions**
 - **Narrows down to countries per region**
 - **Moinitors the Air quality per country**
@@ -105,8 +98,6 @@ For more information on the importance of a professional README for your reposit
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Demo Link](https://air-pollution-updates.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -115,15 +106,11 @@ For more information on the importance of a professional README for your reposit
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
-
-
 
 ```sh
  1 . Set up React dependencies
@@ -135,7 +122,6 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-
 ```sh
   cd my-folder
   git clone https://github.com/JOdiemo/Air-Pollution-App.git
@@ -146,7 +132,6 @@ Clone this repository to your desired folder:
 ### Install
 
 Install this project with:
-
 
 ```sh
   cd Air-Pollution-App
@@ -166,7 +151,6 @@ To run the project, execute the following command:
 ### Run tests
 
 To run tests, run the following command:
-
 
 ```sh
   npm test
@@ -214,17 +198,13 @@ Feel free to check the [issues page](https://github.com/JOdiemo/Air-Pollution-Ap
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project you can fork it or give me a kudos in the issues section
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microvese inc for giving us this rare opportunity to become Full-Stack developers
 
