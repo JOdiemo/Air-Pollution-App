@@ -16,7 +16,7 @@ const RegionsHome = () => {
     <div>
       <Header id="/" />
       <div className="world-container">
-        <img src={World} alt="" className="world-map" />
+        <img src={World} alt="" className="world" />
         <div className="contents">
           <h4>Air Pollution mobile and webapp Tracker.</h4>
           <p>Air Pollution Monitor.</p>

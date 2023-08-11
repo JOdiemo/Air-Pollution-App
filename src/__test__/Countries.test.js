@@ -1,5 +1,4 @@
 import renderer from 'react-test-renderer';
-import { cleanup } from '@testing-library/react';
 import { BrowserRouter as Router } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import { combineReducers, createStore, applyMiddleware } from 'redux';
@@ -12,7 +11,7 @@ const rootReducer = combineReducers({
   countryReducer,
   pollutionReducer,
 });
-const store = createStore(rootReducer, applyMiddleware(thunk))
+const store = createStore(rootReducer, applyMiddleware(thunk));
 describe('Countries List ', () => {
   test('Countries List renders correctly', () => {
     const countries = renderer

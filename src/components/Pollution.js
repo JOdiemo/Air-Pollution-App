@@ -12,34 +12,34 @@ const Pollution = (props) => {
         <img src={flag} alt="flag" className="w-25" />
       </div>
       <p className="m-2 text-warning">
-        Air pollution ( μg/m3 ) stats - 2022:
+        Air pollution in ( μg/m3 ) statistics - 2022:
       </p>
       <table className="table">
         <thead>
           <tr className="table-light">
             <th scope="col">gas</th>
-            <th scope="col">μg/m3</th>
+            <th scope="col">micrograms (one-millionth of a gram) per cubic meter air </th>
           </tr>
         </thead>
         <tbody>
           <tr className="table-secondary">
-            <th scope="row">CO</th>
+            <th scope="row">Carobon Monoxide(CO)</th>
             <td>{co}</td>
           </tr>
           <tr className="table-danger">
-            <th scope="row">NO</th>
+            <th scope="row">Nitrogen Oxide(NO)</th>
             <td>{no}</td>
           </tr>
           <tr className="table-warning">
-            <th scope="row">NO2</th>
+            <th scope="row">Nitrogen Dioxode(NO2)</th>
             <td>{no2}</td>
           </tr>
           <tr className="table-info">
-            <th scope="row">NO2</th>
-            <td>{no2}</td>
+            <th scope="row">Latitude</th>
+            <td>{lat}</td>
           </tr>
           <tr className="table-info">
-            <th scope="row">{lat}</th>
+            <th scope="row">Longitude</th>
             <td>{lng}</td>
           </tr>
         </tbody>

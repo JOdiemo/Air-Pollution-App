@@ -5,7 +5,6 @@ import Pollution from './Pollution';
 
 const Pollutions = () => {
   const pollutions = useSelector((state) => state.pollutionReducer);
-  console.log(pollutions)
   return (
     <div>
       <Header id="/countries" />

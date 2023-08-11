@@ -1,5 +1,5 @@
 body {
-  background: rgb(67 105 178) !important;
+  background: #bf2770 !important;
 }
 
 .app {
@@ -32,18 +32,20 @@ body {
 .world-container {
   position: relative;
   text-align: center;
+  width: 100%;
 }
 
-.centered {
+.contents {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 
-.world-map {
-  width: 80%;
-  opacity: 0.3;
+.world {
+  width: 40%;
+  height: 4%;
+  /* opacity: 0.3; */
 }
 
 .name {
@@ -52,8 +54,9 @@ body {
 }
 
 @media only screen and (min-width: 769px) {
-  .world-map {
+  .world {
     width: 50%;
+    height: 4%;
     opacity: 0.3;
   }
 
