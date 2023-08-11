@@ -107,7 +107,7 @@ For more information on the importance of a professional README for your reposit
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]
+- [Live Demo Link](https://air-pollution-updates.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -188,7 +188,7 @@ Example:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@JOdiemo](https://github.com/JOdiemo/)
 - Twitter: [@JorumOdiemo](https://twitter.com/twitterhandle)
